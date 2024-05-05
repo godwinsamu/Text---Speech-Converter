@@ -42,3 +42,17 @@ button{
 button:hover{
     background-color: aqua;
 }
+@media (max-width:488px){
+textarea{
+    width:300px;
+}
+h1{
+    margin-left:0.1rem;
+    font-size:40px;
+}
+.container{
+    background-position:cover;
+    margin-top:-10rem;
+    height:120vh;
+}
+}
